@@ -1,0 +1,1 @@
+The assignment for my final project in Python was to input a directory into a Python console and rename all the files in the directory. I used the user's current directory and inputed that filepath to change all the names of the files in the current directory using os modules from Python.
